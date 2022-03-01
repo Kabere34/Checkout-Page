@@ -39,3 +39,11 @@ hr {
   padding: 82px 13px 0 12px;
   border-radius: 12px;
 }
+.contact-container {
+  display: flex;
+  flex-direction: row;
+}
+input {
+  width: 90%;
+  margin: 10px;
+}
